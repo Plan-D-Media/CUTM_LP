@@ -3183,7 +3183,7 @@ span#otpresendlinkMobile a {
         width: 100%;
     }
     .hero-apply { width: 250px !important; float: right; margin-top: 25px; }
-    .hero-video { width: 150px !important; float: left; margin-top: -150px; }
+    .hero-video { width: 150px !important; float: left; margin-top: -150px; position:relative; }
 .modal-dialog {
     margin:150px auto 0 auto;
   }
